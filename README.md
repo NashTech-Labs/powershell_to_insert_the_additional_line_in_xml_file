@@ -1,6 +1,6 @@
 # powershell_to_insert_the_additional_line_in_xml_file
 ## Powershell script which append the additional line into the xml file
-## Prerequist
+## Prerequisite
 1. PowerShell  
 2.Nuget cli  
 ## Steps to follow 
